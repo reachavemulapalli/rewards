@@ -7,6 +7,5 @@ This application is developed using SpringBoot 3.0.2 and uses Spring security (J
  Hit the following URL after running the application to open the swagger UI: http://localhost:8080/swagger-ui/index.html#/
  
  
- 
- Sample Postman collection in the application root
+Created a Input.json Sample Input file for POST:/api/v1/customers  
 
