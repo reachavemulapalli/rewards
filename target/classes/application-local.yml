@@ -1,0 +1,24 @@
+spring:
+  h2:
+    console:
+      enabled: true
+  datasource:
+    #url: jdbc:h2:./rewarddb
+    url: jdbc:h2:mem:rewarddb
+    username: sa
+    password: password
+    driverClassName: org.h2.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+    database: h2
+    database-platform: org.hibernate.dialect.H2Dialect
+reward.minAmountForFirstReward: 50.0
+reward.maxAmountForFirstReward: 100.0
+reward.firstRewardValue: 1.0
+reward.secondRewardValue: 2.0
+
