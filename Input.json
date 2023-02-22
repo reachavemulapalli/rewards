@@ -1,0 +1,177 @@
+[
+  {
+    "customer_id": 1,
+    "firstName": "anil",
+    "lastName": "Vemulapalli",
+    "emailId" : "reach.avemulapalli@gmail.com",
+    "transactionList": [ {
+      "customer_id": 1,
+      "transaction_id": 1,
+      "amount": 123.23,
+      "timeStamp":"2019-06-14T13:33:03.969Z"
+    },
+      {
+        "customer_id": 1,
+        "transaction_id": 2,
+        "amount": 123.23,
+        "timeStamp":"2019-06-24T13:33:03.969Z"
+      },
+      {
+        "customer_id": 1,
+        "transaction_id": 3,
+        "amount": 123.23,
+        "timeStamp":"2019-06-04T13:33:03.969Z"
+      },
+      {
+        "customer_id": 1,
+        "transaction_id": 4,
+        "amount": 123.23,
+        "timeStamp":"2019-06-13T13:33:03.969Z"
+      }
+    ]
+
+  },
+  {
+    "customer_id": 2,
+    "firstName": "anil2",
+    "lastName": "Vemulapalli",
+    "emailId" : "reach.vemulapallia@gmail.com",
+    "transactionList": [ {
+      "customer_id": 2,
+      "transaction_id": 5,
+      "amount": 123.23,
+      "timeStamp":"2019-06-14T13:33:03.969Z"
+    },
+      {
+        "customer_id": 2,
+        "transaction_id": 6,
+        "amount": 123.23,
+        "timeStamp":"2019-06-24T13:33:03.969Z"
+      },
+      {
+        "customer_id": 2,
+        "transaction_id": 7,
+        "amount": 123.23,
+        "timeStamp":"2019-06-04T13:33:03.969Z"
+      },
+      {
+        "customer_id": 2,
+        "transaction_id": 8,
+        "amount": 123.23,
+        "timeStamp":"2019-06-13T13:33:03.969Z"
+      }, {
+        "customer_id": 2,
+        "transaction_id": 9,
+        "amount": 123.23,
+        "timeStamp":"2019-07-24T13:33:03.969Z"
+      },
+      {
+        "customer_id": 2,
+        "transaction_id": 10,
+        "amount": 123.23,
+        "timeStamp":"2019-07-14T13:33:03.969Z"
+      },
+      {
+        "customer_id": 2,
+        "transaction_id": 32,
+        "amount": 123.23,
+        "timeStamp":"2019-07-12T13:33:03.969Z"
+      },
+      {
+        "customer_id": 2,
+        "transaction_id": 33,
+        "amount": 123.23,
+        "timeStamp":"2019-07-06T13:33:03.969Z"
+      }
+    ]
+
+  },
+
+  {
+    "customer_id": 3,
+    "firstName": "anil",
+    "lastName": "Vemulapalli",
+    "emailId" : "reach.avemulapalli@gmail.com",
+    "transactionList": [ {
+      "customer_id": 3,
+      "transaction_id": 11,
+      "amount": 123.23,
+      "timeStamp":"2019-06-14T13:33:03.969Z"
+    },
+      {
+        "customer_id": 3,
+        "transaction_id": 12,
+        "amount": 123.23,
+        "timeStamp":"2019-06-24T13:33:03.969Z"
+      },
+      {
+        "customer_id": 3,
+        "transaction_id": 13,
+        "amount": 123.23,
+        "timeStamp":"2019-06-04T13:33:03.969Z"
+      },
+      {
+        "customer_id": 3,
+        "transaction_id": 14,
+        "amount": 123.23,
+        "timeStamp":"2019-06-13T13:33:03.969Z"
+      }
+    ]
+
+  },
+  {
+    "customer_id": 4,
+    "firstName": "anil2",
+    "lastName": "Vemulapalli",
+    "emailId" : "reach.vemulapallia@gmail.com",
+    "transactionList": [ {
+      "customer_id": 4,
+      "transaction_id": 21,
+      "amount": 123.23,
+      "timeStamp":"2019-06-14T13:33:03.969Z"
+    },
+      {
+        "customer_id": 4,
+        "transaction_id": 22,
+        "amount": 123.23,
+        "timeStamp":"2019-06-24T13:33:03.969Z"
+      },
+      {
+        "customer_id": 4,
+        "transaction_id": 23,
+        "amount": 123.23,
+        "timeStamp":"2019-06-04T13:33:03.969Z"
+      },
+      {
+        "customer_id": 4,
+        "transaction_id": 24,
+        "amount": 123.23,
+        "timeStamp":"2019-06-13T13:33:03.969Z"
+      }, {
+        "customer_id": 4,
+        "transaction_id": 25,
+        "amount": 123.23,
+        "timeStamp":"2019-07-24T13:33:03.969Z"
+      },
+      {
+        "customer_id": 4,
+        "transaction_id": 26,
+        "amount": 123.23,
+        "timeStamp":"2019-07-14T13:33:03.969Z"
+      },
+      {
+        "customer_id": 4,
+        "transaction_id": 27,
+        "amount": 123.23,
+        "timeStamp":"2019-07-12T13:33:03.969Z"
+      },
+      {
+        "customer_id": 4,
+        "transaction_id": 28,
+        "amount": 123.23,
+        "timeStamp":"2019-07-06T13:33:03.969Z"
+      }
+    ]
+
+  }
+]
